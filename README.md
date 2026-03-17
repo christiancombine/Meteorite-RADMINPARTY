@@ -11,7 +11,7 @@ just get pnpm and enjoy
 ultimate PATCH HERE changeds my ip to shit ok
 
 # run this in front path to fix shit
-OOOOR JUST MAKE a .env with this
+edit .env in front 
 ```env
 PUBLIC_ORIGIN=radmin ip
 ```
