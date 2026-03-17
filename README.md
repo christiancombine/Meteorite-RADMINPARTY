@@ -1,6 +1,5 @@
 Metourite Source with some improvements 
-GO TO Front/src/lib/url.ts 
-CHANGE MY RADMIN IP TO YOURS ENJOY!
+# NOT url.ts patch is not needed anymore since my .env method
 backend is easy enough
 front rarely needs shit tho i patched it
 just get pnpm and enjoy
