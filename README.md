@@ -12,11 +12,7 @@ just get pnpm and enjoy
 ultimate PATCH HERE changeds my ip to shit ok
 
 # run this in front path to fix shit
-```ps1
-Get-ChildItem -Recurse -Include *.ts,*.js,*.svelte | ForEach-Object {
-    $content = Get-Content $_.FullName -Raw
-    $content = $content -replace 'import\s*\{\s*26.186.176.105\s*\}\s*from\s*["'']\$env/static/public["''];?', ''
-    $content = $content -replace 'http://\$\{26.186.176.105\}', 'http://yourradminip'
-    Set-Content $_.FullName $content
-}
+OOOOR JUST MAKE a .env with this
+```env
+PUBLIC_ORIGIN=26.186.176.105
 ```
