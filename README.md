@@ -14,5 +14,5 @@ ultimate PATCH HERE changeds my ip to shit ok
 # run this in front path to fix shit
 OOOOR JUST MAKE a .env with this
 ```env
-PUBLIC_ORIGIN=26.186.176.105
+PUBLIC_ORIGIN=radmin ip
 ```
