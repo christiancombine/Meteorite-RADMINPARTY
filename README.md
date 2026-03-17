@@ -16,6 +16,11 @@ edit .env in front
 ```env
 PUBLIC_ORIGIN=radmin ip
 ```
+run ```sh
+npm run build ```
+or ```sh
+pnpm build```
+your frontend ready bro
 # NOTE : we are using the FRONT-END source now 
 # 100% Patched as of now
 # Update will be pushed soon
