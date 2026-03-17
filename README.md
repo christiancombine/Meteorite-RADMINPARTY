@@ -15,6 +15,7 @@ edit .env in front
 ```env
 PUBLIC_ORIGIN=radmin ip
 ```
-# NOTE : we are using the orginal source now 
+# NOTE : we are using the FRONT-END source now 
+# 100% Patched as of now
 # Update will be pushed soon
 any problems then join noob https://discord.gg/FrWXjztf
