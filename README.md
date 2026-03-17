@@ -23,7 +23,8 @@ your frontend ready bro
 # 100% Patched as of now
 # Update will be pushed soon
 any problems then join noob https://discord.gg/FrWXjztf
-here is fixed schema.js ```js 
+here is fixed schema.js 
+```js 
 const mongoose = require("mongoose")
 
 
