@@ -4,3 +4,6 @@ CHANGE MY RADMIN IP TO YOURS ENJOY!
 backend is easy enough
 front rarely needs shit tho i patched it
 just get pnpm and enjoy
+
+
+[ usefull for ur parties ok host it for ur friends idk ]
