@@ -17,3 +17,4 @@ PUBLIC_ORIGIN=radmin ip
 ```
 # NOTE : we are using the orginal source now 
 # Update will be pushed soon
+any problems then join noob https://discord.gg/FrWXjztf
