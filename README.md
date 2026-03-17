@@ -6,4 +6,4 @@ front rarely needs shit tho i patched it
 just get pnpm and enjoy
 
 
-[ usefull for ur parties ok host it for ur friends idk ]
+ useful for ur parties ok host it for ur friends idk 
