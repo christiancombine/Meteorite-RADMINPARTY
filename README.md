@@ -22,3 +22,5 @@ your frontend ready bro
 # 100% Patched as of now
 # Update will be pushed soon
 any problems then join noob https://discord.gg/FrWXjztf
+# DB_PASSWORD IS MONGODB THING
+# MAKE ACC WITH mongosh
