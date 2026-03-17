@@ -1,4 +1,5 @@
-Metourite Source with some improvements 
+Metourite Source with some improvements either known as
+ALL CREDITS TO SUSHI the furfag
 # NOT url.ts patch is not needed anymore since my .env method
 backend is easy enough
 front rarely needs shit tho i patched it
