@@ -7,3 +7,4 @@ just get pnpm and enjoy
 
 
  useful for ur parties ok host it for ur friends idk 
+[ DO NOT USE THIS FOR NOW ILL UPLOAD PATCHES SOON! ]
