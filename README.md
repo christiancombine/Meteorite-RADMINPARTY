@@ -5,7 +5,7 @@ ALL CREDITS TO SUSHI the furfag
 backend is easy enough
 front rarely needs shit tho i patched it
 just get pnpm and enjoy
-
+if the fork owner sees this ok
 
  useful for ur parties ok host it for ur friends idk 
 [ DO NOT USE THIS FOR NOW ILL UPLOAD PATCHES SOON! ]
@@ -27,3 +27,4 @@ here is fixed schema.js
 ```js 
 ill send it when i reconstruct it
 }```
+anyways after i quit deving this rev ill upload the MYSQL version of mine lol
